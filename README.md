@@ -1,4 +1,4 @@
-# frontend
+# LinCast web app (old)
 
 ## Project setup
 ```
